@@ -36,23 +36,24 @@ Priyanka Rawat
 
 ### 1. Clone the Repository
 
-
 git clone https://github.com/Priyankarawat30/DriverDrowsinessDetection.git
 cd DriverDrowsinessDetection
-2. Create a Virtual Environment (optional but recommended)
+
+### 2. Create a Virtual Environment (optional but recommended)
 
 python -m venv venv
 venv\Scripts\activate  # On Windows
-3. Install Requirements
 
+### 3. Install Requirements
 pip install -r requirements.txt
-4. Install dlib Manually (if needed)
+
+### 4. Install dlib Manually (if needed)
 Download the .whl file compatible with your Python version and install it:
 
 pip install path\to\dlib‑19.24.2‑cp311‑cp311‑win_amd64.whl
 Make sure your Python version matches the .whl file (e.g., Python 3.11).
 
-5. Run the Streamlit App
+### 5. Run the Streamlit App
 
 streamlit run streamlit_app.py
 Ensure shape_predictor_68_face_landmarks.dat is in the same directory or update its path in the code.
