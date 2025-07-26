@@ -36,7 +36,7 @@ Priyanka Rawat
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Priyankarawat30/DriverDrowsinessDetection.git
+git clone https://github.com/Priyankarawat30/DriveSafe-Vision.git
 cd DriverDrowsinessDetection
 
 ### 2. Create a Virtual Environment (optional but recommended)
