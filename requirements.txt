@@ -6,5 +6,7 @@ scipy
 streamlit
 requests
 pillow
+
 https://github.com/RvTechiNN/dlib-prebuilt/releases/download/v19.24.2/dlib-19.24.2-cp39-cp39-manylinux2014_x86_64.whl
+
 
