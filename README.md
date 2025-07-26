@@ -1,4 +1,4 @@
-### DriveSafe Vision
+# **DriveSafe Vision**
 
 A real-time computer vision-based system to detect driver drowsiness by monitoring eye closure and yawning using webcam feed. This project leverages facial landmark detection via dlib and OpenCV, integrated into a user-friendly Streamlit web interface.
 
