@@ -6,7 +6,7 @@ scipy
 streamlit
 requests
 pillow
-mediapipe
+dlib
 
 
 
