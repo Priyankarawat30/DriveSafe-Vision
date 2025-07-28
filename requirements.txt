@@ -6,6 +6,6 @@ scipy
 streamlit
 requests
 pillow
-dlib
+
 
 
